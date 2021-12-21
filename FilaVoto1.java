@@ -7,6 +7,6 @@ class FilaVoto1 {
 
         String mensagem = nome + ", vá para a fila: " + mesNascimento;
 
-        System.out.println(mensagem);
+        System.out.println(mensagem + " - teste");
     }
 }
